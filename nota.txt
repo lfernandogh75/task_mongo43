@@ -1,0 +1,12 @@
+mkdir task-manager
+cd task-manager
+inicializar un proyecto con node
+npm init -y
+npm install express
+npm install mongoose
+npm install bcryptjs
+npm install jsonwebtoken
+npm install dotenv
+npm install body-parser
+npm install --save-dev nodemon
+mkdir config controllers models routes middlewares
